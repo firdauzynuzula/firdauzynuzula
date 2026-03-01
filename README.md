@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FIRDAUZY NUZULA</h1>
-<h3 align="center">A passionate Fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java and Java Spring boot**
+- 🌱 I’m currently learning **Java Spring boot**
 
 - 💬 Ask me about **javascript**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/firdauzy nuzula pramadhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdauzy nuzula pramadhani" height="30" width="40" /></a>
 <a href="https://instagram.com/firdauzynuzula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firdauzynuzula" height="30" width="40" /></a>
 </p>
 
