@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FIRDAUZY NUZULA</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Java Spring boot**
+- 🌱 I’m currently learning **Java and Java Spring boot**
 
 - 💬 Ask me about **javascript**
 
